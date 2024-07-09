@@ -1,10 +1,29 @@
-
 => INITALIZE PROJECT : Done  
-=> 
-=> 
-=> 
-=> 
-=> 
-=> 
-=> 
-=> 
+Make Routing : 
+    => home : Done 
+    => admin : Done 
+        => 
+        =>  
+    => articles : Done 
+        => 
+        =>  
+    => Register : Done 
+    => Login : Done 
+    => About : Done
+    => error : Done 
+    => 404 : Dpne
+    => loading : Done
+
+implement ui : 
+    => Layout : 
+        => NavBar : Done
+            => NavLink : Done  
+        => Footer : Done 
+    => Login : 
+    => Register : 
+    => About  : 
+    => Articles : 
+    => Admin : 
+    => Home : 
+        => Hero : 
+        => plans :  
